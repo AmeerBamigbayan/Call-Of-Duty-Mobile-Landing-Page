@@ -4,4 +4,4 @@ Recently, I've been constantly playing Call Of Duty Mobile. So I decided to buil
 
 <br>
 <br>
-![screencapture-file-C-Users-Ameer-Documents-Code-Workspace-COD-Mobile-Landing-Page-index-html-2022-04-02-23_00_22](https://user-images.githubusercontent.com/76779409/161973753-d5ff03e9-5025-4f70-a060-eaf54c1724c5.png)
+![screencapture-file-C-Users-Ameer-Documents-Code-Workspace-COD-Mobile-Landing-Page-index-html-2022-04-02-23_00_22](https://user-images.githubusercontent.com/76779409/161973956-0a68d60b-babe-45f9-a257-23d28bef53d7.png)
